@@ -1,4 +1,4 @@
-# Sensory_Threshold
+# Visual_Threshold_Mindwandering
 Contains data and scripts for all figures presented in "Visual Thresholds Cannot Be Reliably Measured Without Controlling for Mindwandering"
 
 - the main script is "all_figures.m" 
